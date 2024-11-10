@@ -1,5 +1,5 @@
 # CS2024-Assignment-3
-A website to promote a product on Shopee.
+A website to promote a meal kit product found on Shopee
 I was in a group of 3 people, and I was involved in the design in Figma
 
 Figma link:
